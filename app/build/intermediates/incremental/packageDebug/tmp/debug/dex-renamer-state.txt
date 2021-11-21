@@ -1,0 +1,10 @@
+#Sun Nov 21 11:36:16 GMT+02:00 2021
+base.2=F\:\\Lekcii\\3  Course\\1. Semestar\\Mobilni prilojeniq\\BMI_KursovaRabota\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+path.2=3/classes.dex
+base.1=F\:\\Lekcii\\3  Course\\1. Semestar\\Mobilni prilojeniq\\BMI_KursovaRabota\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=F\:\\Lekcii\\3  Course\\1. Semestar\\Mobilni prilojeniq\\BMI_KursovaRabota\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
