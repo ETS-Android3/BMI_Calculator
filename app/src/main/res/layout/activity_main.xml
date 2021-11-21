@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|top">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:text="Calculate"
+        android:textSize="30sp" />
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="339dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:ems="15"
+        android:gravity="center"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/editHeight"
+        android:layout_width="193dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:ems="6"
+        android:gravity="center"
+        android:hint="Height"
+        android:inputType="number|numberDecimal"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/editWeight"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:ems="6"
+        android:gravity="center"
+        android:hint="Weight"
+        android:inputType="number|numberDecimal"
+        android:textSize="20sp" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"
+        android:padding="5dp">
+
+        <Button
+            android:id="@+id/calc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginBottom="5dp"
+            android:textStyle="bold"
+            android:text="Calculate" />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp"
+            android:textStyle="bold"
+            android:text="Save" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="3dp">
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="200dp"
+            android:layout_height="39dp"
+            android:gravity="right"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/resultInfo"
+            android:layout_width="200dp"
+            android:layout_height="39dp"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"
+        android:text="All Registries" />
+</LinearLayout>
