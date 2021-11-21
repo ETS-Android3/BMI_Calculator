@@ -1,0 +1,19 @@
+com/example/bmi_kursovarabota/listview.java
+ com.example.bmi_kursovarabota.listview
+com/example/bmi_kursovarabota/DBActivity.java
+ com.example.bmi_kursovarabota.DBActivity
+ com.example.bmi_kursovarabota.DBActivity$OnQuerySuccess
+ com.example.bmi_kursovarabota.DBActivity$OnSelectSuccess
+com/example/bmi_kursovarabota/BuildConfig.java
+ com.example.bmi_kursovarabota.BuildConfig
+com/example/bmi_kursovarabota/LastSaved.java
+ com.example.bmi_kursovarabota.LastSaved
+ com.example.bmi_kursovarabota.LastSaved$1
+ com.example.bmi_kursovarabota.LastSaved$2
+com/example/bmi_kursovarabota/MainActivity.java
+ com.example.bmi_kursovarabota.MainActivity
+ com.example.bmi_kursovarabota.MainActivity$1
+ com.example.bmi_kursovarabota.MainActivity$2
+com/example/bmi_kursovarabota/UpdateDelete.java
+ com.example.bmi_kursovarabota.UpdateDelete
+ com.example.bmi_kursovarabota.UpdateDelete$1
